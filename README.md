@@ -1,6 +1,6 @@
 # Unicorn Companies Analysis
 
-This repository contains SQL queries and the slide presentation for the analytical project on 1060 unicorn companies in 46 countries worldwide. This project aims at exploring the answers to the following questions:
+This repository contains SQL queries for the analytical project on 1060 unicorn companies in 46 countries worldwide. This project aims at exploring the answers to the following questions:
 1. Which unicorn companies have had the biggest return on investment?
 2. How long does it usually take for a company to become a unicorn?
 3. Which industries have the most unicorns? 
